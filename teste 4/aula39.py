@@ -12,4 +12,5 @@ while indice < len(nome):
     novo_nome += f'...{letra}'
     indice += 1
     
+    
     print(novo_nome)

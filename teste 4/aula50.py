@@ -21,7 +21,7 @@ nome = lista.pop()
 lista.append(1233)
 del lista[-1]
 # lista.clear()
-lista.insert(2, 'Murillo')   
+lista.insert(2, 'Murillo')
 # o insert terá que adicionar 2 valores separados por virgula, o primeiro é o indice onde quer adicionar
 # e o numero apos a virgula é o valor que  será adicionado
 print(lista)

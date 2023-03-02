@@ -14,7 +14,7 @@ for i in range(10):
 
     # O (J) esta sendo usado para contar colunas
 
-    for j in range(1, 3):
+    for j in range(1, 4):
         print(i, j)
 else:
     print('For completo com sucesso!')
